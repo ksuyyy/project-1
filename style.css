@@ -1,0 +1,25 @@
+.block1 {
+    position: absolute; 
+    float: left;
+    left: 0; 
+    top: 0; 
+    width: 50%;
+    }
+    
+.block2 {
+    position: absolute; 
+    float: right;
+    right: 0; 
+    top: 0; 
+    width: 45%;
+    }
+
+body {
+    margin: 0px;
+}
+
+    img {
+        width: 110%; 
+        height: 100vh;
+        display: flex;
+    }
